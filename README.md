@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://jorgeduranalcala.github.io/404-page/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/JorgeDuranAlcala/404-page">
+    <a href="https://github.com/JorgeDuranAlcala/404-page/blob/master/docs/index.html">
       Solution
     </a>
     <span> | </span>
@@ -42,10 +42,9 @@
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+This is a 404 page that I created as a solution for a challenge from challenge.io, I enjoyed every single moment working
+on this project specially by improving my knowledges in css grid and responsive design. really recomended
+You can see a demon [Here](https://jorgeduranalcala.github.io/404-page/)
 
 ### Built With
 
@@ -69,6 +68,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Website [your-website.com](https://portfolio-3g11gvtol-jorgeduranalcala.vercel.app/)
+- GitHub [Jorge Duran](https://github.com/JorgeDuranAlcala)
+- Twitter [@your-twitter](https://twitter.com/JorgeDuCala)
