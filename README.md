@@ -42,7 +42,7 @@
 
 This is a 404 page that I created as a solution for a challenge from challenge.io, I enjoyed every single moment working
 on this project specially by improving my knowledges in css grid and responsive design. really recomended
-You can see a demon [Here](https://jorgeduranalcala.github.io/404-page/)
+You can see a demo [Here](https://jorgeduranalcala.github.io/404-page/)
 
 ### Built With
 
