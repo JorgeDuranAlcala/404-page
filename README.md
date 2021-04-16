@@ -40,8 +40,6 @@
 
 ![screenshot](https://github.com/JorgeDuranAlcala/404-page/blob/media/screenshot-404-page.png?raw=true)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
 This is a 404 page that I created as a solution for a challenge from challenge.io, I enjoyed every single moment working
 on this project specially by improving my knowledges in css grid and responsive design. really recomended
 You can see a demon [Here](https://jorgeduranalcala.github.io/404-page/)
@@ -68,6 +66,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://portfolio-3g11gvtol-jorgeduranalcala.vercel.app/)
-- GitHub [Jorge Duran](https://github.com/JorgeDuranAlcala)
-- Twitter [@your-twitter](https://twitter.com/JorgeDuCala)
+- Website [https://portfolio-3g11gvtol-jorgeduranalcala.vercel.app/](https://portfolio-3g11gvtol-jorgeduranalcala.vercel.app/)
+- GitHub [https://github.com/JorgeDuranAlcala](https://github.com/JorgeDuranAlcala)
+- Twitter [https://twitter.com/JorgeDuCala](https://twitter.com/JorgeDuCala)
